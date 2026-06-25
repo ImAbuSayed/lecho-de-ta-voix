@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lecho-de-ta-voix/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for L'écho De Ta Voix](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lecho-de-ta-voix/) |
+| **Get License** | [Obtain a Music License for L'écho De Ta Voix](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lecho-de-ta-voix/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `88fc1241e5f9d167a582e87bb8765658fc06f77509a76aad6a1912717de2e68c` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

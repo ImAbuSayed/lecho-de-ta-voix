@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - L'écho De Ta Voix
+
+This log tracks the cryptographic history and versioning for the song **L'écho De Ta Voix** (lecho-de-ta-voix).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T02:53:09.024686 | `v1` | `88fc1241e5f9d167a582e87bb8765658fc06f77509a76aad6a1912717de2e68c` | `b9b9fa69cc6c0bb65b724f78ad64e657d7badf4d571dc16d611bd9bd2941561d` | `2026-06-26_lecho-de-ta-voix-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
