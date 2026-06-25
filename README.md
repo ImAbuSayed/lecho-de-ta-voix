@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la nuit parisienne, l'écho d'ta voix m'ensorcelle
+> Ton parfum sur ma veste, une romance criminelle
+> Je roule dans la ville, j'ai ton image sous la peau
+> Bébé monte le volume, on s'évade vers le haut
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
